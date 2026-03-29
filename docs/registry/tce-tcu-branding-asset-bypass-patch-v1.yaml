@@ -1,0 +1,24 @@
+# TCE_TCU_BRANDING_ASSET_BYPASS_PATCH_V1
+
+This registry entry provides details for the TCE TCU branding asset bypass patch version 1.
+
+## Description
+A comprehensive bypass patch for the branding assets in TCU (The Come Up) project. This patch ensures that branding assets are handled correctly without compromising on performance or quality.
+
+## Version
+- **Version:** 1.0.0  
+- **Release Date:** 2026-03-29  
+
+## Changes
+- Initial patch release  
+- Improved asset loading mechanics
+
+## Usage Instructions
+To apply this patch, ensure you have the required dependencies installed. Follow the instructions below:
+
+1. Clone the repository containing the branding assets.
+2. Apply the patch:
+   ```bash
+   git apply tce-tcu-branding-asset-bypass-patch-v1.yaml
+   ```
+3. Verify the assets are loaded correctly in your application.
