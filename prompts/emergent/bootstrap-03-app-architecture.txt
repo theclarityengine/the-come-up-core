@@ -1,0 +1,3 @@
+# Bootstrap App Architecture 03
+
+This prompt analyzes the app architecture for bootstrapping.

@@ -1,0 +1,3 @@
+# The Come Up
+
+Welcome to The Come Up, a project aimed at providing a comprehensive solution for...

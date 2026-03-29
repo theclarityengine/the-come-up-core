@@ -1,0 +1,11 @@
+{ 
+  "name": "the-come-up-core",
+  "version": "1.0.0",
+  "description": "Core foundation of The Come Up project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "author": "theclarityengine",
+  "license": "ISC"
+}

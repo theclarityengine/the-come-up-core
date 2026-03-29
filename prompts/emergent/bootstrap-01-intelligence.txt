@@ -1,0 +1,3 @@
+# Bootstrap Intelligence 01
+
+This prompt focuses on intelligence for the bootstrap process.

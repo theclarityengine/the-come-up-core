@@ -1,0 +1,3 @@
+# Bootstrap Project Overlay 02
+
+This prompt focuses on the project overlay aspect.
